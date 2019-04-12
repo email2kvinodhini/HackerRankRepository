@@ -1,0 +1,7 @@
+c:\users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\obj\Debug\HackerRankDay1Challenge.csproj.CoreCompileInputs.cache
+c:\users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\bin\Debug\HackerRankDay1Challenge.exe.config
+c:\users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\bin\Debug\HackerRankDay1Challenge.exe
+c:\users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\bin\Debug\HackerRankDay1Challenge.pdb
+c:\users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\obj\Debug\HackerRankDay1Challenge.exe
+c:\users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\obj\Debug\HackerRankDay1Challenge.pdb
+C:\Users\vijayam\source\repos\HackerRankDay1Challenge\HackerRankDay1Challenge\obj\Debug\HackerRankDay1Challenge.csprojAssemblyReference.cache
